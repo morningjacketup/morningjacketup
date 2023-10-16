@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![https://www.codewars.com/users/Washburn/badges/small](https://www.codewars.com/users/Washburn/badges/micro)
 
 
-```javascript
+```
 const person1 = {
   gender: "male",
   stack: [
