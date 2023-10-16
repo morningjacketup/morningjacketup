@@ -1,7 +1,16 @@
 ![Header](https://imageupload.io/ib/6EdP1Tx6ZrDohvL_1697491838.png)
 # About Me:
-A passionate frontend developer from Russia
-
+```
+const person1 = {
+  name: {
+    first: "Ivan",
+    last: "Savvinov"
+  },
+  city: "Moscow",
+  email: "morningjacketup@gmail.com",
+  about: "A passionate frontend developer and musician"
+}
+```
 
 ## Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Wshbrn)
