@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Codewars](https://www.codewars.com/users/Washburn/badges/small)
+![https://www.codewars.com/users/Washburn/badges/small](https://www.codewars.com/users/Washburn/badges/micro)https://www.codewars.com/users/Washburn/badges/micro)
