@@ -1,19 +1,5 @@
-### Hi there 👋
-
-<!--
-**morningjacketup/morningjacketup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    Savvinov Ivan
 
 ![https://www.codewars.com/users/Washburn/badges/small](https://www.codewars.com/users/Washburn/badges/micro)
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25" height="25">,
@@ -30,3 +16,5 @@ const person1 = {
   architecture: ["microservices", "event-driven", "design system pattern"]
 }
 ```
+
+</p>
