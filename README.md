@@ -1,4 +1,4 @@
-![image](https://github.com/morningjacketup/morningjacketup/assets/57740348/e2530cdd-b93b-4769-8b3d-d5f5d340e7af)![image](https://github.com/morningjacketup/morningjacketup/assets/57740348/64c81180-fbb2-40f8-b7d5-74948f4bc245)# 💫 About Me:
+# 💫 About Me:
 A passionate frontend developer from Russia
 
 
