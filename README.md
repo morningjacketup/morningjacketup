@@ -1,4 +1,4 @@
-![Header](https://ibb.co/W2jhS8b)
+![Header](https://i.ibb.co/9rSDRKF/github-header-image.png)
 # About Me:
 ```
 const person1 = {
