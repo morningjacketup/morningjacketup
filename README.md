@@ -9,7 +9,8 @@ frontend developer
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="50" height="50">
 
-<br/>
+
+
 ```
 const person1 = {
     name: {
