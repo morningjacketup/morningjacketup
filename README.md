@@ -19,6 +19,8 @@ const person1 = {
     gender: "male",
     stack: ["JavaScript", "TypeScript", "React", "Redux", "HTML", "CSS", "Node", "Express", "MongoDB", "PostgreSQL"]
 }
+
+export default person1
 ```
 
 </p>
