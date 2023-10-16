@@ -9,11 +9,15 @@
 
 ```
 const person1 = {
-  gender: "male",
-  stack: [
-
-]
-  architecture: ["microservices", "event-driven", "design system pattern"]
+    name: {
+        first: "Ivan",
+        last: "Savvinov"
+    }
+    email: "morningjacketup@gmail.com",
+    city: "Moscow",
+    hobby: "Больше всего люблю исполнять каверы на любимые песни(получается не очень)",
+    gender: "male",
+    stack: ["JavaScript", "TypeScript", "React", "Redux", "HTML", "CSS", "Node", "Express", "MongoDB", "PostgreSQL"]
 }
 ```
 
