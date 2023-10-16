@@ -1,4 +1,4 @@
-![Header](https://imageupload.io/bsitdf3DXnaqQZC)
+![Header](https://imageupload.io/ib/6EdP1Tx6ZrDohvL_1697491838.png)
 # About Me:
 A passionate frontend developer from Russia
 
